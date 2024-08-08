@@ -1,8 +1,0 @@
-{
-  "dependencies": [
-    "glfw3",
-    "raylib",
-    "vcpkg-cmake",
-    "vcpkg-cmake-config"
-  ]
-}
